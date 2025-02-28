@@ -2,7 +2,7 @@
 This project is a simple to-do list application built using HTML, CSS, and JavaScript. It allows users to manage their tasks effectively by providing features to add, edit, complete, and delete tasks. The app also includes a task counter and persistent storage to ensure your tasks remain intact even after the page refreshes.
 
 ## Live Demo
-You can view the live version of the project here: [To-Do List Live Demo](https://fedamousa.github.io/to-do-list/)
+You can view the live version of the project here: [To-Do List Live Demo](https://to-do-app-orpin-pi.vercel.app/)
 
 ## Features
 ### Adding a Todo:
